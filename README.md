@@ -1,12 +1,9 @@
 # Cancer Detection — Histopathologic Image Classification
 
+
+This project aims to addresses: **Can a deep learning model distinguish between cancerous and normal histology images?**
+
 **Deep Learning-based image classification to detect cancer in histopathology images**
-
-This project aims to addresses:
-
-**Can a deep learning model distinguish between cancerous and normal histology images?**
-
-Automated cancer detection from histopathologic images can:
 * Improve diagnostic speed  
 * Reduce workload for pathologists  
 * Enhance accuracy with scalable prediction  
